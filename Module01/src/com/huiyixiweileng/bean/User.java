@@ -23,9 +23,14 @@ public class User {
 
 
     public static void main(String[] args) {
+        //快捷键使用
+        //xxx.sout
         System.out.println("aaa");
+        //soutp
         System.out.println("args = [" + args + "]");
+        //soutv
         System.out.println("args = " + args);
+        //soutn
         System.out.println("User.main");
 
 
